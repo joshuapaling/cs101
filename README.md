@@ -1,4 +1,4 @@
-Udacity's cs101 Hints and Answers
+Udacity's cs101 Hints and Answers EDITED
 =================================
 
 This is a resource for Udacity's CS101 course questions.
